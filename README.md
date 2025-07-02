@@ -1,4 +1,3 @@
-
 # Agency Template
 
 This repo is a NextJS, Tailwind, React template for agencies. Free. Open Source. Use this template to build your agency website.
